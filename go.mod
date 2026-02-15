@@ -1,4 +1,4 @@
-module testnewsaas
+module gittalk
 
 go 1.24.3
 
